@@ -61,3 +61,4 @@ ELF Header:
 
 * [How To Write Shared Libraries](https://www.akkadia.org/drepper/dsohowto.pdf)
 * [Using GDB with LD_PRELOAD](https://www.baeldung.com/linux/gdb-with-ld_preload)
+* [Preloading the linker for fun and profit](https://tmpout.sh/2/6.html)
