@@ -10,7 +10,7 @@ overrides `__cxa_finalize`.
 ## Running
 
 There are two demonstrations which both use `LD_PRELOAD` to map in the corresponding
-dynamic symbols. Each can be run my first compiling all of the required binary files,
+dynamic symbols. Each can be run by first compiling all of the required binary files,
 then executing them as follows:
 
 ```
